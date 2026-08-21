@@ -8,11 +8,13 @@ title: Blogcular.net
 Blog yazanların bir araya geldiği Türkçe topluluk.
 Yazılarını paylaş, yeni blogları keşfet, geri bildirim al.
 
+👉 **[Siteye git: blogcular.net](https://blogcular.net)**
+
 ## Neler sunuyoruz
 
 - **Blog rehberi** — Türkçe blogların derli toplu listesi
 - **Yazar topluluğu** — deneyim paylaşımı ve karşılıklı destek
-- **İçerik ipuçları** — SEO, yazım ve tasarım üzerine rehberler
+- **İçerik ipuçları** — SEO, yazım ve tasarım rehberleri
 
 ## Kimler için
 
@@ -21,11 +23,11 @@ takip etmek isteyen okuyucular.
 
 ## Nasıl katılırsın
 
-1. Blogunun adresini bize gönder
-2. Kısa bir tanıtım yaz
+1. [blogcular.net](https://blogcular.net) adresine git
+2. Blogunun adresini gönder
 3. Listeye eklendikten sonra paylaşımlara katıl
 
 ## İletişim
 
-- E-posta: bets10tr@gmail.com
-- YouTube: https://youtube.com/@bets10giristvtr?si=elpHCeWFYy6W4iIh
+- E-posta: iletisim@blogcular.net
+- YouTube: https://youtube.com/@blogcularnet?si=DnJGTlwXABO5PVxl
