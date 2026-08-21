@@ -30,4 +30,4 @@ takip etmek isteyen okuyucular.
 ## İletişim
 
 - E-posta: iletisim@blogcular.net
-- YouTube: https://youtube.com/@blogcularnet?si=DnJGTlwXABO5PVxl
+- YouTube: [YouTube kanalımız](https://youtube.com/c/BlogcularNet)
